@@ -8,11 +8,11 @@ including multilingual and code-switching scenarios.
 For API access, email kanishkthakur12006@gmail.com
 """
 
-from .stt import STT
-from .tts import TTS
+from .stt import STT, SpeechStream
+from .tts import TTS, SynthesizeStream
 from .version import __version__
 
-__all__ = ["STT", "TTS", "__version__"]
+__all__ = ["STT", "TTS", "SpeechStream", "SynthesizeStream", "__version__"]
 
 
 from livekit.agents import Plugin
