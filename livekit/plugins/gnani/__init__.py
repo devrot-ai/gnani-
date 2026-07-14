@@ -5,7 +5,7 @@ Support for speech-to-text and text-to-speech with [Gnani's Vachana platform](ht
 Vachana provides high-accuracy STT and low-latency TTS for Indian languages,
 including multilingual and code-switching scenarios.
 
-For API access, email kanishkthakur12006@gmail.com
+For API access, get a key at https://app.gnani.ai/voice
 """
 
 from .stt import STT, SpeechStream
