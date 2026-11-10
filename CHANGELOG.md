@@ -176,7 +176,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - LiveKit Agents `Plugin.register_plugin()` integration for automatic discovery.
 - Built on top of the [`gnani-vachana`](https://pypi.org/project/gnani-vachana/) core SDK.
 
-[0.4.0]: https://github.com/devrot-ai/livekit-plugins-gnani/releases/tag/v0.4.0
-[0.3.0]: https://github.com/devrot-ai/livekit-plugins-gnani/releases/tag/v0.3.0
-[0.2.0]: https://github.com/devrot-ai/livekit-plugins-gnani/releases/tag/v0.2.0
-[0.1.0]: https://github.com/devrot-ai/livekit-plugins-gnani/releases/tag/v0.1.0
+[0.4.0]: https://github.com/devrot-ai/gnani-/releases/tag/v0.4.0
+[0.3.0]: https://github.com/devrot-ai/gnani-/releases/tag/v0.3.0
+[0.2.0]: https://github.com/devrot-ai/gnani-/releases/tag/v0.2.0
+[0.1.0]: https://github.com/devrot-ai/gnani-/releases/tag/v0.1.0

@@ -10,7 +10,7 @@ readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.10"
 authors = [
-    { name = "Genvoice", email = "kanishkthakur12006@gmail.com" },
+    { name = "kanishk", email = "kanishkthakur12006@gmail.com" },
 ]
 keywords = [
     "webrtc", "realtime", "audio", "livekit", "livekit-agents",
@@ -55,8 +55,8 @@ dev = [
 [project.urls]
 Homepage = "https://gnani.ai"
 Documentation = "https://docs.gnani.ai/"
-Repository = "https://github.com/devrot-ai/livekit-plugins-gnani"
-Issues = "https://github.com/devrot-ai/livekit-plugins-gnani/issues"
+Repository = "https://github.com/devrot-ai/gnani-"
+Issues = "https://github.com/devrot-ai/gnani-/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["livekit"]
